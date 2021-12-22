@@ -4,8 +4,9 @@
 · Name: Óscar
 · alife: Espain, Guadalajara
 · Age: 13 years 
+· Languages I speak: Englis and Spanish
 
-#### 🔧 Programming languages:
+#### 💻 Programming languages:
 - JavaScript
 - Java
 - html
@@ -13,7 +14,7 @@
 - ejs
 - haking
 
-### Learning languages programin:
+### 💻 programming languages that I am learning:
 - php
 
 ### 🤖 I am working on:
@@ -22,11 +23,11 @@
 - Mod mc *(Fodingin)*
 - npm *(newmanager-lib-npm)*
 - 
-### Future projects:
+### 💻 Future projects:
 - Fusion *(Red social)*
 - Videogame 2D *(Aircraft game)*
 
-###  My npm node.js and install:
+### ⌨️ My npm node.js and install:
 
 - npm newmanager-lib-npm *(npm i newmanager-lib-npm)*
 - npm fusionlist *(soon)*
