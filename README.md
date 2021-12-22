@@ -2,7 +2,7 @@
 
 ### About my:
 - Name: Óscar
-- alife: Espain, Guadalajara
+- Alife: Espain, Guadalajara
 - Age: 13 years 
 - Languages I speak: Englis and Spanish
 
