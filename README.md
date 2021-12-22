@@ -1,10 +1,10 @@
 ### Hi I'm NewoscarYT, I'm developing Discord bots! 🎉
 
 ### About my:
-· Name: Óscar
-· alife: Espain, Guadalajara
-· Age: 13 years 
-· Languages I speak: Englis and Spanish
+- Name: Óscar
+- alife: Espain, Guadalajara
+- Age: 13 years 
+- Languages I speak: Englis and Spanish
 
 #### 💻 Programming languages:
 - JavaScript
