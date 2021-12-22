@@ -1,5 +1,10 @@
 ### Hi I'm NewoscarYT, I'm developing Discord bots! 🎉
 
+### About my:
+· Name: Óscar
+· alife: Espain, Guadalajara
+· Age: 13 years 
+
 #### 🔧 Programming languages:
 - JavaScript
 - Java
@@ -8,11 +13,18 @@
 - ejs
 - haking
 
+### Learning languages programin:
+- php
+
 ### 🤖 I am working on:
 - FusionSecurity *(Bot Discord)*
 - Fusionlist *(Bot list and serve list)*
 - Mod mc *(Fodingin)*
 - npm *(newmanager-lib-npm)*
+- 
+### Future projects:
+- Fusion *(Red social)*
+- Videogame 2D *(Aircraft game)*
 
 ###  My npm node.js and install:
 
@@ -26,6 +38,12 @@
 
 ### 🤖 Public bots:
 - Economy bot.
+- FusionGiveways.
+- 
+### 🤖 Future bots public.
+- Ticket bot.
+- Welcomes bot.
+
 
 <!---
 <br>
