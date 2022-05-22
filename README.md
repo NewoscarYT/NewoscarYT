@@ -2,9 +2,9 @@
 
 ### About my:
 - Name: Óscar
-- Alife: Espain, Guadalajara
+- Alife: Spain, Guadalajara
 - Age: 13 years 
-- Languages I speak: Englis and Spanish
+- Languages I speak: English and Spanish
 
 #### 💻 Programming languages:
 - JavaScript
@@ -12,10 +12,13 @@
 - html
 - css
 - ejs
-- haking
+- php
 
 ### 💻 programming languages that I am learning:
-- php
+- sql
+- haking
+- hbs
+- node
 
 ### 🤖 I am working on:
 - FusionSecurity *(Bot Discord)*
