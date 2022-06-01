@@ -9,10 +9,14 @@
 #### 💻 Programming languages:
 - JavaScript
 - Java
-- html
+- Java 8
+- html 16
 - css
 - ejs
 - php
+- sql
+- node.js
+
 
 ### 💻 programming languages that I am learning:
 - sql
@@ -22,7 +26,7 @@
 
 ### 🤖 I am working on:
 - FusionSecurity *(Bot Discord)*
-- Fusionlist *(Bot list and serve list)*
+- DevPortal (Web para creadores de contenido)
 - Mod mc *(Fodingin)*
 - npm *(newmanager-lib-npm)*
 - 
@@ -43,9 +47,10 @@
 ### 🤖 Public bots:
 - Economy bot.
 - FusionGiveways.
-- 
-### 🤖 Future bots public.
+- FusionSecurity
+- CheckForger
 - Ticket bot.
+### 🤖 Future bots public.
 - Welcomes bot.
 
 
