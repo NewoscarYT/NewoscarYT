@@ -8,9 +8,9 @@
 
 #### 💻 Programming languages:
 - JavaScript
-- Java
+- Java 16
 - Java 8
-- html 16
+- html 
 - css
 - ejs
 - php
