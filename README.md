@@ -19,10 +19,8 @@
 
 
 ### 💻 programming languages that I am learning:
-- sql
 - haking
 - hbs
-- node
 
 ### 🤖 I am working on:
 - FusionSecurity *(Bot Discord)*
