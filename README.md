@@ -1,6 +1,7 @@
 ### Hi I'm NewoscarYT, I'm developing Discord bots! 🎉
 
 ### About my:
+- Full Stack Web Developer
 - Name: Óscar
 - Alife: Spain, Guadalajara
 - Age: 13 years 
