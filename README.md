@@ -8,20 +8,12 @@
 - Languages I speak: English and Spanish
 
 #### 💻 Programming languages:
-- JavaScript
-- Java 16
-- Java 8
-- html 
-- css
-- ejs
-- php
-- sql
-- node.js
+- CSS
+- Html
 
 
 ### 💻 programming languages that I am learning:
-- haking
-- hbs
+- JavaScript
 
 ### 🤖 I am working on:
 - FusionSecurity *(Bot Discord)*
@@ -49,8 +41,6 @@
 - FusionSecurity
 - CheckForger
 - Ticket bot.
-### 🤖 Future bots public.
-- Welcomes bot.
 
 
 <!---
